@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.mce-container-body {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+ }
+
+ .mceu_68-body {
+   background-color: red !important;
+ }
